@@ -1,0 +1,6 @@
+rootProject.name = 'springboot-rabbitmq-app'
+include 'Entity'
+include 'UserMicroservice'
+include 'CatMicroservice'
+include 'WebMicroservice'
+
